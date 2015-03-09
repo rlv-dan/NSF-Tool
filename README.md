@@ -8,7 +8,7 @@ Written in VB6.
 
  * View and edit metadata information such as composer and title.
  * Batch rename .nsf files based on metadata
- * Reads special chips such as 
+ * Reads special chips such as Konami VRC6
  * Supports both NSF and NSFe file formats
 
 <img src="http://www.rlvision.com/misc/nsf_tool_screenshot.png">
